@@ -1,0 +1,20 @@
+{
+  "name": "writevibe",
+  "version": "1.0.0",
+  "description": "Advanced lyric-editing notebook for all devices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremyengland/writevibe.git"
+  },
+  "keywords": [],
+  "author": "Jeremy England",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremyengland/writevibe/issues"
+  },
+  "homepage": "https://github.com/jeremyengland/writevibe#readme"
+}
